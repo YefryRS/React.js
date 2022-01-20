@@ -1,0 +1,14 @@
+GUIA: https://bluuweb.github.io/react-udemy/02-hooks-fundamentos/#que-son-los-hooks.
+
+
+CREAR APP CON REACT
+
+Tienes que tener instalado Node.js en su últimas versiones.
+
+Posteriormente en la terminal ejecutas los siguientes comandos para crear un proyecto en react
+-Creamos una carpeta donde guardaremos los archivos de react
+-npx create-react-app my-app: Creamos nuestros archivo con react
+-cd my-app: Accedemos a la carpeta que acabamos de crear
+-npm start: lo podemos hacer desde la terminal de nuestro VScode.
+
+Con esto ya podremos iniciar nuestro proyecto.
